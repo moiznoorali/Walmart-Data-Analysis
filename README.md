@@ -44,7 +44,7 @@ Used matplotlib in order to produce the following graphics:
 1. The ratio/percentage of holdiays were 7%
 2. Highest performing store was store number 20 (GO back and fix this!!!)
 3. Store with the lowest unemployment was store 38
-4. Highest CPI year was (2011)... made up 36% of sales.
+4. Highest CPI year was (2011) which was made up 36% of sales.
 
 
 
